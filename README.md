@@ -2,8 +2,7 @@
 
 This is a program written in C# that implements a Chess Application. 
 
-# Features 
-{Game Mode Selection:} Buttons to choose between different game modes
+# Features
 
 ● {Human vs MyBot}: A game mode where the player competes against the computer.
 
