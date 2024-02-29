@@ -33,3 +33,4 @@ Run the files using the Command:
 ```
 dotnet run
 ```
+![Example Image](chess.png)
