@@ -1,0 +1,5 @@
+C:\Users\Kostas\Desktop\Chess-main\Chess\obj\Debug\net6.0\Chess.csproj.AssemblyReference.cache
+C:\Users\Kostas\Desktop\Chess-main\Chess\obj\Debug\net6.0\Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kostas\Desktop\Chess-main\Chess\obj\Debug\net6.0\Chess.AssemblyInfoInputs.cache
+C:\Users\Kostas\Desktop\Chess-main\Chess\obj\Debug\net6.0\Chess.AssemblyInfo.cs
+C:\Users\Kostas\Desktop\Chess-main\Chess\obj\Debug\net6.0\Chess.csproj.CoreCompileInputs.cache
