@@ -33,4 +33,7 @@ Run the files using the Command:
 ```
 dotnet run
 ```
+
+# Main Menu
+
 ![Example Image](chess.png)
